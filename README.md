@@ -1,7 +1,7 @@
 
 ## Drawing mode
     
-    Users can click `Pen` button to enter the drawing mode, and can exit the mode either by clicking `Pen` button again or press `ESC` on keyboard.
+Users can click `Pen` button to enter the drawing mode, and can exit the mode either by clicking `Pen` button again or press `ESC` on keyboard.
 Notice that if the user clicks any other button in the toolbar will also exit the drawing mode.
 By pressing those style buttons, user will end drawing the current curve and set the property for the future curves.
 The current curve on drawing will not be saved until user exits the drawing mode.
